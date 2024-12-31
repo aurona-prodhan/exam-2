@@ -1,0 +1,40 @@
+/* navbar part start */
+nav{
+    background:#EEEDDE;
+    padding: 22px 0px !important;
+}
+.nav-link{
+    font-size: 16px;
+    font-weight: 400;
+    color:#18191F ;
+    font-family:"Inter", sans-serif ;
+    column-gap: 50px;
+}
+/* navbar part end */
+/* banner part start */
+.banner {
+    background:#EEEDDE;
+    padding: 161px 0;
+}
+.one{
+    align-items: center;
+}
+.banner h1{
+    font-size: 56px;
+    color:#203239;
+    font-weight: 600;
+    font-family:"Inter", sans-serif ;
+}
+
+.banner p{
+    font-size: 24px;
+    color: #717171;
+    font-weight: 300;
+    font-family:"Inter", sans-serif ;
+    padding-top: 16px;
+    padding-bottom: 32px;
+    
+}
+
+
+/* banner part start */
